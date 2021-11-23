@@ -101,3 +101,5 @@ def deal(data_path,batch=32,train_rate=0.8):
  #   print(batch_data[0].shape)
   #  print(batch_data[1].shape)
 
+##
+#adaaadfdfafafa
